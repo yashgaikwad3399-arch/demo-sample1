@@ -1,0 +1,6 @@
+{
+  "name": "Smart Examination Portal",
+  "description": "A full-stack role-based online examination platform for students and administrators with secure server-side evaluation, timed tests, and detailed performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
